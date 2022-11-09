@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushana-chavan" alt="Krushana-chavan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jkjl,.kjkj](jkjl,.kjkj)
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/Krushna-chavan.github.io/]
 
 - 💬 Ask me about **HTML, JavaScript, CSS, Chakra UI, React.js, NodeJs**
 
